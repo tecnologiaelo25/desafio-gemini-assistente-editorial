@@ -1,0 +1,1 @@
+# desafio-gemini-assistente-editorial
