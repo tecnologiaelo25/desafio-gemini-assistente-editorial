@@ -6,7 +6,7 @@ Buscamos pessoas inovadoras para nos ajudar a conectar nossos autores e livros c
 
 ## Visão Geral do Desafio
 
-Você irá construir um **"Assistente de Publicações"**, um chatbot que será o ponto de contato digital do nosso grupo editorial. Ele fornecerá informações sobre os títulos publicados pelos nossos selos, **Elo Editora** e **Perabook**, e ajudará os leitores a encontrarem nossos livros.
+Você irá construir um **"Assistente de Publicações"**, um chatbot. Ele fornecerá informações sobre os títulos publicados pelos nossos selos, **Elo Editora** e **Perabook**, e ajudará os leitores a encontrarem nossos livros.
 
 ## O Cenário
 
