@@ -10,7 +10,7 @@ Você irá construir um **"Assistente de Publicações"**, um chatbot. Ele forne
 
 ## O Cenário
 
-Sua missão é criar um assistente virtual que possa ser integrado ao nosso futuro site. Este assistente deve ser capaz de realizar duas funções essenciais para nossos leitores e parceiros comerciais:
+Sua missão é criar um assistente virtual simples. Este assistente deve ser capaz de realizar duas funções essenciais para nossos leitores e parceiros comerciais:
 
 1.  **Fornecer informações detalhadas** sobre qualquer livro publicado por nós (data de lançamento, selo, sinopse).
 2.  **Ajudar o leitor a encontrar** em quais livrarias (físicas ou online) nossos livros estão sendo vendidos.
